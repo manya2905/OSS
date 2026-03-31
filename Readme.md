@@ -4,7 +4,7 @@
 | Field | Details |
 |---|---|
 | **Student Name** | Manya Raghuwanshi |
-| **Registration Number** | 24BCE11381 |
+| **Registration Number** | 24BCE11428 |
 | **Chosen Software** | Linux Kernel |
 | **License** | GNU General Public License v2 (GPL v2) |
 
